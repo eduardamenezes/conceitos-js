@@ -1,0 +1,48 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.duda {
+  color: #ffffff;
+  background-color: #b72f63;
+
+  margin: 20px;
+  padding: 20px;
+  border: 5px solid #188fa4;
+
+  border-radius: 10px;
+  width: fit-content;
+}
+
+.joao {
+  color: rgb(33, 103, 223);
+  background-color: rgb(115, 170, 233);
+
+  padding: 20px;
+  margin-left: 20px;
+  border-radius: 10px;
+
+  width: fit-content;
+  border: 5px solid rgb(54, 69, 81);
+}
+
+input {
+  width: 200px;
+  height: 50px;
+
+  outline: none;
+
+  border-radius: 5px;
+
+  margin-left: 25px;
+
+  font-size: 20px;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
